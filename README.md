@@ -31,3 +31,6 @@ Pregunta3
 [Scala](https://github.com/Mademoisellefou/Inf319-2doParcial/blob/main/examen2Final/PPregunta3/fibonacciscala.scala)
 
 
+Pregunta4
+
+[WebService](https://github.com/Mademoisellefou/Inf319-2doParcial/blob/main/examen2Final/PPregunta4/WebService.cs)
