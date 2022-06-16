@@ -3,7 +3,7 @@ fibonacii  = (\x y z -> x + y + z)
 
 main :: IO()
 main = do
-  putStrLn " Serie fibonacii 3:"
+  putStrLn " Serie fibonacii 3 lambda:"
   print(0)
   print(1)
   print(1)
@@ -11,6 +11,6 @@ main = do
   print(fibonacii 1 1 2)
   print(fibonacii 1 2 4)
   print(fibonacii 2 4 7)
-
+  
   
   
