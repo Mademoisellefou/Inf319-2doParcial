@@ -2,8 +2,9 @@
 2doParcial
 
 Pregunta 1
+[F# Recursivo-Estructurado] (https://github.com/Mademoisellefou/Inf319-2doParcial/tree/main/examen2Final/PPregunta1/fsharp)
 
-[Python](https://github.com/Mademoisellefou/Inf319-2doParcial/tree/main/examen2Final/PPregunta1/python)
+[Python Recursivo-Estructurado](https://github.com/Mademoisellefou/Inf319-2doParcial/tree/main/examen2Final/PPregunta1/python)
 
 [Scala Recursivo](https://github.com/Mademoisellefou/Inf319-2doParcial/blob/main/examen2Final/PPregunta1/haskell/pregunta1Recursivo.hs)
 
