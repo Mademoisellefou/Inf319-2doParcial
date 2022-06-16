@@ -2,7 +2,7 @@
 2doParcial
 
 Pregunta 1
-[F# Recursivo-Estructurado] (https://github.com/Mademoisellefou/Inf319-2doParcial/tree/main/examen2Final/PPregunta1/fsharp)
+[F# Recursivo-Estructurado](https://github.com/Mademoisellefou/Inf319-2doParcial/tree/main/examen2Final/PPregunta1/fsharp)
 
 [Python Recursivo-Estructurado](https://github.com/Mademoisellefou/Inf319-2doParcial/tree/main/examen2Final/PPregunta1/python)
 
